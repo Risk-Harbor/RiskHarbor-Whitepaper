@@ -1,2 +1,2 @@
 # Risk Harbor - Whitepaper
-Read Risk Harbor's whitepaper!
+Read Risk Harbor's [whitepaper](whitepaper.pdf)!
